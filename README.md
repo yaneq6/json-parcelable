@@ -68,3 +68,20 @@ Android Studio hint
 ---
 If you work with AndroidStudio you should disable lint inspection for missing CREATOR in classes that implements Parcelable.
 JsonParcelable class already provide CREATOR and you shouldn't care about it.
+
+License
+-------
+
+    Copyright 2015 Jan Góral
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
